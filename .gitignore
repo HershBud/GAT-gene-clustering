@@ -1,5 +1,4 @@
-# Large & code-handled data
+# Avoid pushing inputs
+# This will mean we will need a manual copy of GSE60361_C1-3005-Expression.txt and Zeisel_cell_label.csv
+/data/input
 
-data/input/GSE60361_C1-3005-Expression.txt
-GSE65525_RAW.tar
-GSE65525_extracted/
